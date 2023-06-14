@@ -1,0 +1,5 @@
+C:\Users\Wizzard\Documents\SharpDevelop Projects\AppTestProject\AppTestProject\bin\Debug\AppTestProject.exe
+C:\Users\Wizzard\Documents\SharpDevelop Projects\AppTestProject\AppTestProject\bin\Debug\AppTestProject.pdb
+C:\Users\Wizzard\Documents\SharpDevelop Projects\AppTestProject\AppTestProject\obj\Debug\AppTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Wizzard\Documents\SharpDevelop Projects\AppTestProject\AppTestProject\obj\Debug\AppTestProject.exe
+C:\Users\Wizzard\Documents\SharpDevelop Projects\AppTestProject\AppTestProject\obj\Debug\AppTestProject.pdb
