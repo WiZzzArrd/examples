@@ -1,3 +1,3 @@
-# Githun learning
+# Github learning
 
 Подгруппа Бордукова
