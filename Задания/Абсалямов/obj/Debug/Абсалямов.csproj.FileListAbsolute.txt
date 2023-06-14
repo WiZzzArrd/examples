@@ -1,0 +1,5 @@
+C:\Users\absalamof\Documents\SharpDevelop Projects\Абсалямов\Абсалямов\obj\Debug\Абсалямов.csprojResolveAssemblyReference.cache
+C:\Users\absalamof\Documents\SharpDevelop Projects\Абсалямов\Абсалямов\bin\Debug\Абсалямов.exe
+C:\Users\absalamof\Documents\SharpDevelop Projects\Абсалямов\Абсалямов\bin\Debug\Абсалямов.pdb
+C:\Users\absalamof\Documents\SharpDevelop Projects\Абсалямов\Абсалямов\obj\Debug\Абсалямов.exe
+C:\Users\absalamof\Documents\SharpDevelop Projects\Абсалямов\Абсалямов\obj\Debug\Абсалямов.pdb
