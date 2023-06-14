@@ -1,3 +1,3 @@
-# gigig
+# Githun learning
 
-hi
+Подгруппа Бордукова
