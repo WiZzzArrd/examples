@@ -1,0 +1,15 @@
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\bin\Debug\net7.0\Миникеев.exe
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\bin\Debug\net7.0\Миникеев.deps.json
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\bin\Debug\net7.0\Миникеев.runtimeconfig.json
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\bin\Debug\net7.0\Миникеев.dll
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\bin\Debug\net7.0\Миникеев.pdb
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\obj\Debug\net7.0\Миникеев.csproj.AssemblyReference.cache
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\obj\Debug\net7.0\Миникеев.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\obj\Debug\net7.0\Миникеев.AssemblyInfoInputs.cache
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\obj\Debug\net7.0\Миникеев.AssemblyInfo.cs
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\obj\Debug\net7.0\Миникеев.csproj.CoreCompileInputs.cache
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\obj\Debug\net7.0\Миникеев.dll
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\obj\Debug\net7.0\refint\Миникеев.dll
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\obj\Debug\net7.0\Миникеев.pdb
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\obj\Debug\net7.0\Миникеев.genruntimeconfig.cache
+C:\Users\Wizzard\Desktop\git-example\examples\Задания\Миникеев\obj\Debug\net7.0\ref\Миникеев.dll
