@@ -1,0 +1,15 @@
+C:\Users\Wizzard\Desktop\git-example\obj\Debug\net7.0\git-example.csproj.AssemblyReference.cache
+C:\Users\Wizzard\Desktop\git-example\obj\Debug\net7.0\git-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wizzard\Desktop\git-example\obj\Debug\net7.0\git-example.AssemblyInfoInputs.cache
+C:\Users\Wizzard\Desktop\git-example\obj\Debug\net7.0\git-example.AssemblyInfo.cs
+C:\Users\Wizzard\Desktop\git-example\obj\Debug\net7.0\git-example.csproj.CoreCompileInputs.cache
+C:\Users\Wizzard\Desktop\git-example\bin\Debug\net7.0\git-example.exe
+C:\Users\Wizzard\Desktop\git-example\bin\Debug\net7.0\git-example.deps.json
+C:\Users\Wizzard\Desktop\git-example\bin\Debug\net7.0\git-example.runtimeconfig.json
+C:\Users\Wizzard\Desktop\git-example\bin\Debug\net7.0\git-example.dll
+C:\Users\Wizzard\Desktop\git-example\bin\Debug\net7.0\git-example.pdb
+C:\Users\Wizzard\Desktop\git-example\obj\Debug\net7.0\git-example.dll
+C:\Users\Wizzard\Desktop\git-example\obj\Debug\net7.0\refint\git-example.dll
+C:\Users\Wizzard\Desktop\git-example\obj\Debug\net7.0\git-example.pdb
+C:\Users\Wizzard\Desktop\git-example\obj\Debug\net7.0\git-example.genruntimeconfig.cache
+C:\Users\Wizzard\Desktop\git-example\obj\Debug\net7.0\ref\git-example.dll
